@@ -4,7 +4,7 @@
 - 📫 How to reach me: wj2945@gmail.com
 
 # Learn more about me at my portfolio
-- https://github.com/Jason2945/Portfolio_js
+https://github.com/Jason2945/Portfolio_js
 
 # I work and learn on anything technology related.
 
