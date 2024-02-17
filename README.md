@@ -8,17 +8,17 @@
 
 # I work and learn on anything technology related.
 
--- Hardware Project Links
+## Hardware Project Links
 https://github.com/Jason2945/FPGA_VHDL_DE10-Standard-Board
 
--- JavaScript Project Link
+## JavaScript Project Link
 https://github.com/Jason2945/JS_Calculator
 
 https://github.com/Jason2945/Space_Invader_JS
 
--- Python Project Links
+## Python Project Links
 
--- C++ Project Links
+## C++ Project Links
 
 ## Extra Information
 ![Codewars](https://github.r2v.ch/codewars?user=Jason2945)
