@@ -6,7 +6,7 @@
 - 📫 How to reach me: wj2945@gmail.com
 
 # Learn more about me at my portfolio
-https://github.com/Jason2945/Portfolio_js
+https://github.com/Jason2945/Portfolio
 
 # Current technologies that I am learning or worked with :
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,html,css,react,visualstudio)](https://skillicons.dev)
