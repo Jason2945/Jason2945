@@ -18,9 +18,9 @@ https://github.com/Jason2945/Portfolio
 [FPGA Projects involving DE-10 Board and Quartus Prime](https://github.com/Jason2945/FPGA_VHDL_DE10-Standard-Board)
 
 ## [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript Project Link
-[Basic JavaScript Calculator Project](https://github.com/Jason2945/JS_Calculator)
+[Basic JavaScript Calculator Project](https://jason2945.github.io/JS_Calculator/)
 
-[Retro Space Invader Game - Created through JavaScript Canvas](https://github.com/Jason2945/Space_Invader_JS)
+[Retro Space Invader Game - Created through JavaScript Canvas](https://jason2945.github.io/Space_Invader_JS/)
 
 ## [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) Python Project Links
 
